@@ -1,0 +1,2 @@
+# invertir_numero_4digitos
+programa para invertir_numero_4digitos
